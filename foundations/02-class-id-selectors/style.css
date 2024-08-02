@@ -1,0 +1,21 @@
+.styleodd{
+
+    background-color: rgb(245, 181, 192);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#idstyle1{
+    color:rgb(7, 7, 247);
+    font-size: 36px;
+
+}
+
+#idstyle2{
+    background-color: rgb(138, 250, 138);
+    font-weight: bold;
+
+}
+
+.thirdodd{
+    font-size: 24px;
+}
